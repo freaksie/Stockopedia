@@ -27,10 +27,6 @@ To get started with Stockopedia, follow these steps:
 - Long Short-Term Memory (LSTM) Model
 - Yahoo Finance API
 
-## Contributing
-
-We welcome contributions from the community! If you'd like to contribute to Stockopedia, please follow our [Contribution Guidelines](CONTRIBUTING.md).
-
 ## Contact
 
 For any questions or feedback, please contact Neel Vora (mailto:freaksie27@gmail.com).
